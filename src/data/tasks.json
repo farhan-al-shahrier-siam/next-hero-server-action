@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "Complete React Assignment",
+    "description": "Finish the dashboard UI using Tailwind and Context API",
+    "status": "pending",
+    "priority": "high",
+    "dueDate": "2026-04-22",
+    "createdAt": "2026-04-20"
+  },
+  {
+    "id": 2,
+    "title": "Fix API Fetch Bug",
+    "description": "Resolve data fetching issue in Next.js App Router",
+    "status": "in-progress",
+    "priority": "medium",
+    "dueDate": "2026-04-21",
+    "createdAt": "2026-04-19"
+  },
+  {
+    "id": 3,
+    "title": "Design 404 Page",
+    "description": "Create a modern green-themed 404 error page",
+    "status": "completed",
+    "priority": "low",
+    "dueDate": "2026-04-18",
+    "createdAt": "2026-04-17"
+  },
+  {
+    "id": 4,
+    "title": "Update README",
+    "description": "Add project description, features, and tech stack",
+    "status": "pending",
+    "priority": "medium",
+    "dueDate": "2026-04-23",
+    "createdAt": "2026-04-20"
+  },
+  {
+    "id": 5,
+    "title": "Optimize Performance",
+    "description": "Improve loading speed and reduce unnecessary re-renders",
+    "status": "in-progress",
+    "priority": "high",
+    "dueDate": "2026-04-25",
+    "createdAt": "2026-04-20"
+  }
+]
