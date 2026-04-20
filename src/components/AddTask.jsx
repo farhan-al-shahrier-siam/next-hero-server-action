@@ -28,8 +28,8 @@ const AddTask = ({ createATask }) => {
                                             <Label>Description</Label>
                                             <Input placeholder="Enter task description" />
                                         </TextField>
-                                        <Select name="prority" className="w-[256px]" placeholder="Select one">
-                                            <Label>Prority</Label>
+                                        <Select name="priority" className="w-[256px]" placeholder="Select one">
+                                            <Label>Priority</Label>
                                             <Select.Trigger>
                                                 <Select.Value />
                                                 <Select.Indicator />
@@ -84,7 +84,7 @@ const AddTask = ({ createATask }) => {
                                             <Button slot="close" variant="secondary">
                                                 Cancel
                                             </Button>
-                                            <Button type="submit">Submit task</Button>
+                                            <Button slot="close" type="submit">Submit task</Button>
                                         </Modal.Footer>
                                     </form>
                                 </Surface>
